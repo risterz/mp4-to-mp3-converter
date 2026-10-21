@@ -47,9 +47,9 @@ All media processing is performed directly in the user's browser via WebAssembly
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live Website
 
-👉 **[https://mp4-to-mp3-converter.harisharraz02.workers.dev](https://mp4-to-mp3-converter.harisharraz02.workers.dev)**
+👉 **[https://sonicshift-mp3.pages.dev](https://sonicshift-mp3.pages.dev)**
 
 ---
 
